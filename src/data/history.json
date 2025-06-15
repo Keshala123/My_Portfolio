@@ -1,29 +1,39 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Google Developer Program Member",
     "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "startDate": "2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": [
+      "Achieved Golden Badge in Java Development",
+      "Participated in Google Developer community events",
+      "Contributed to open-source projects"
+    ],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Problem Solving Expert",
+    "organisation": "HackerRank",
+    "startDate": "2023",
+    "endDate": "Present",
+    "experiences": [
+      "Achieved Golden Badge in Problem Solving",
+      "Mastered advanced algorithms and data structures",
+      "Solved complex programming challenges",
+      "Demonstrated exceptional problem-solving skills"
+    ],
+    "imageSrc": "history/hackerrank.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Volunteer",
+    "organisation": "ZeroPlastic NDT Club",
+    "startDate": "2023",
+    "endDate": "Present",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Promoting sustainable practices and zero waste initiatives",
+      "Organizing community clean-up events",
+      "Raising awareness about plastic pollution"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/Zeroplastic.png"
   }
 ]
