@@ -119,3 +119,21 @@
   text-fill-color: transparent;
   font-weight: bold;
 }
+
+.profileGlow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 10px;
+  background: radial-gradient(circle, #00fff0 0%, #a020f0 100%);
+  box-shadow: 0 0 40px 10px #00fff0, 0 0 80px 20px #a020f0;
+}
+
+.profileGlow img {
+  border-radius: 50%;
+  border: 4px solid #fff;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

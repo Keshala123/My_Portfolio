@@ -17,11 +17,13 @@ export const Hero = () => {
           Contact Me
         </a>
       </div>
-      <img
-        src="https://i.postimg.cc/ZRPWyrkq/Whats-App-Image-2025-06-15-at-10-27-21-623466cb.jpg"
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
+      <div className={styles.profileGlow}>
+        <img
+          src="https://i.postimg.cc/ZRPWyrkq/Whats-App-Image-2025-06-15-at-10-27-21-623466cb.jpg"
+          alt="Hero image of me"
+          className={styles.heroImg}
+        />
+      </div>
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
