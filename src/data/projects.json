@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
+    "title": "Health-Metrics",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "HealthMetrics is a modern, user-friendly web application designed to help users calculate their Body Mass Index (BMI) and access valuable health information.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Keshala123/Health-Metrics"
   },
   {
     "title": "Project B",
