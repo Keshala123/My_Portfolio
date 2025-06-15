@@ -16,9 +16,9 @@
     "source": "https://github.com/Keshala123/Library-Management-system"
   },
   {
-    "title": "To-Do-List",
+    "title": "Academic To-Do-List",
     "imageSrc": "projects/project.png",
-    "description": "This is a academic to-do-list.It helps students manage tasks across different work categories",
+    "description": "It helps students manage tasks across different work categories",
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://keshala123.github.io/To-Do-List/",
     "source": "https://github.com/Keshala123/To-Do-List"
