@@ -26,5 +26,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Google Developer",
+    "imageSrc": "skills/google.png"
+  },
+  {
+    "title": "HackerRank",
+    "imageSrc": "skills/hackerrank.png"
   }
 ]
