@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Keshala senarath</h1>
+        <h1 className={`${styles.title} ${styles.gradientText}`}>Hi, I'm Keshala senarath</h1>
         <p className={styles.description}>
           I'm a student at institute of technology, University of Moratuwa.
           I'm a full-stack developer with 2 years of experience using React and
