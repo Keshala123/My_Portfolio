@@ -88,3 +88,15 @@
 .link:hover {
   color: #00eaff;
 }
+
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 98vw;
+    min-height: unset;
+    padding: 12px 4px;
+  }
+  .image {
+    max-height: 100px;
+    width: 100%;
+  }
+}

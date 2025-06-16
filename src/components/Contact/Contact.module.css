@@ -119,6 +119,24 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    padding: 18px 2%;
+    gap: 18px;
+  }
+  .leftSection, .rightSection {
+    padding: 0;
+  }
+  .contactInfo img, .socialIcons img {
+    width: 28px;
+    height: 28px;
+  }
+  .socialIcons {
+    gap: 12px;
+  }
+}
+
 .socialIcons {
   display: flex;
   gap: 18px;

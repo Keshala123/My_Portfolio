@@ -118,3 +118,10 @@
     gap: 9px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .skillImageContainer img, .historyItem img {
+    width: 32px;
+    height: 32px;
+  }
+}
