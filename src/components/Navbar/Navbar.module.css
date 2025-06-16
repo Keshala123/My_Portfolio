@@ -36,6 +36,15 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  padding: 6px 18px;
+  border-radius: 100px;
+  transition: background 0.18s, color 0.18s, transform 0.18s;
+}
+
+.menuItems a:hover {
+  background: linear-gradient(90deg, #0032ff 0%, #00eaff 100%);
+  color: #fff;
+  transform: scale(1.08);
 }
 
 @media screen and (max-width: 830px) {
