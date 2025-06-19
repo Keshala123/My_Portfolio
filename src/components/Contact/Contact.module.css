@@ -127,7 +127,7 @@
     align-items: center;
   }
   .leftSection, .rightSection {
-    padding: 0;
+    padding: 10px;
     align-items: flex-start;
     text-align: left;
   }
