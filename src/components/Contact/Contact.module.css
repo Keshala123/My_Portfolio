@@ -131,6 +131,11 @@
     align-items: center;
     text-align: center;
   }
+  .rightSection {
+    width: 95vw;
+    max-width: 500px;
+    margin-top: 24px;
+  }
   .contactInfo {
     align-items: center;
     width: 100%;
