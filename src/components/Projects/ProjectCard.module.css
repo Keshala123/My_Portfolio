@@ -96,7 +96,8 @@
     padding: 12px 4px;
   }
   .image {
-    max-height: 100px;
+    max-height: 120px;
+    min-height: 120px;
     width: 100%;
   }
 }
