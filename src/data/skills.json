@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "MySQL",
+    "imageSrc": "skills/MySQL.png"
   },
   {
     "title": "MongoDB",
@@ -29,10 +29,10 @@
   },
   {
     "title": "Java",
-    "imageSrc": "skills/java.png"
+    "imageSrc": "skills/Java.png"
   },
   {
-    "title": "HackerRank",
-    "imageSrc": "skills/hackerrank.png"
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
   }
 ]

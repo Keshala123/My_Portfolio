@@ -22,5 +22,13 @@
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://keshala123.github.io/To-Do-List/",
     "source": "https://github.com/Keshala123/To-Do-List"
+  },
+  {
+    "title": "Shop Ease E-Commerce Platform",
+    "imageSrc": "projects/ShopEase.png",
+    "description": "Experience modern online shopping with secure payments, beautiful design, and seamless user experience.",
+    "skills": ["Node.js", "SQLite", "HTML5", "CSS3", "JavaScript"],
+    "demo": "https://keshala123.github.io/ShopEase/",
+    "source": "https://github.com/Keshala123/ShopEase"
   }
 ]
