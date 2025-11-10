@@ -24,11 +24,11 @@
     "source": "https://github.com/Keshala123/To-Do-List"
   },
   {
-    "title": "Shop Ease E-Commerce Platform",
+    "title": "Wee Saviya For Paddy Marketing Board",
     "imageSrc": "projects/ShopEase.png",
-    "description": "Experience modern online shopping with secure payments, beautiful design, and seamless user experience.",
-    "skills": ["Node.js", "SQLite", "HTML5", "CSS3", "JavaScript"],
-    "demo": "https://keshala123.github.io/ShopEase/",
-    "source": "https://github.com/Keshala123/ShopEase"
+    "description": "It was designed as a real-world solution — it integrates the entire paddy supply chain into a single system.",
+    "skills": ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MySQL","Flutter","Firebase"],
+    "demo": "",
+    "source": "https://github.com/heshan123vitharana/Final-project.git"
   }
 ]
